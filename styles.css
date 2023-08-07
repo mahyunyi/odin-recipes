@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(55, 97, 84);
+    color:hsl(61, 100%, 82%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 241, 207);
+}
+
+li, p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+a {
+    color: #fffc5d;
+}
